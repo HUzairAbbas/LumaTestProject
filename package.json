@@ -1,0 +1,22 @@
+{
+  "name": "testproject",
+  "version": "1.0.0",
+  "description": "This is a test project that i will automate using cypress and PAGE OBJECT MODEL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HUzairAbbas/LumaTestProject.git"
+  },
+  "author": "Uzair",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HUzairAbbas/LumaTestProject/issues"
+  },
+  "homepage": "https://github.com/HUzairAbbas/LumaTestProject#readme",
+  "dependencies": {
+    "cypress": "^12.12.0"
+  }
+}
